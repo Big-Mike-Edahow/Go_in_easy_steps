@@ -1,0 +1,3 @@
+Welcome to the wonderful world of Go.
+Go is a compiled language that is easy to learn.
+Go is fun to use and play around with.
