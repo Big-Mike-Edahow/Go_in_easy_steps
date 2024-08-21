@@ -1,0 +1,16 @@
+/* style.css */
+
+body {
+    background-color: aquamarine;
+}
+
+img,
+p {
+    float: left
+}
+
+p {
+    width: 320px;
+    text-align: center;
+    font-size: 1.5em
+}
